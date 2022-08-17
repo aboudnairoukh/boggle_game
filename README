@@ -1,0 +1,21 @@
+1. THE HOOVER FEATURE:
+instead clicking each time on a button. we did a hoover feature where the user
+clicks one time on a letter, hovers the mouse over the letters he wants to
+choose, and by clicking again he confirms the marked letters
+
+2. OPENING WINDOW:
+a window that pop up in the starting of a game, it has two buttons:
+play button: starts a round of the game.
+instructions button: description is found below.
+
+3. CLOSING WINDOW:
+a window that pop up when the time of the game is out.
+has two buttons:
+back to menu button: description is found below.
+play again button: get the player to another game.
+
+4. BACK TO MENU BUTTON:
+gets the player back to the opening window.
+
+5.INSTRUCTIONS BUTTON:
+opens the instructions of the game.
